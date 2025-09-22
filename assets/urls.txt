@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/lalifeier/IPTV/main/m3u/IPTV.m3u
 https://raw.githubusercontent.com/cqshushu/tvjk/main/jd.txt
 https://raw.githubusercontent.com/cqshushu/tvjk/main/jd2.txt
-https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv.txt
+https://raw.githubusercontent.com/kakaxi-1/IPTV/main/iptv.txt
 https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
 https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv6.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-txt/main/bbxx_lite.txt
