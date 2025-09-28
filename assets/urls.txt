@@ -95,6 +95,7 @@ https://raw.githubusercontent.com/shenjh2023/2024tv/main/ZB1.txt
 https://gitee.com/islandcoffee/tv/raw/master/migu.txt
 https://gitee.com/xilsan/tv/raw/master/tv.m3u
 https://gitee.com/xilsan/tv/raw/master/tv.txt
+https://gitee.com/hw2837/iptv/raw/master/iptv
 https://raw.githubusercontent.com/bluefriendCN/set/main/live.txt
 https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
 https://raw.githubusercontent.com/RaycornM/TVbox-IPTV/main/Tivi.m3u
