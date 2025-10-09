@@ -57,6 +57,8 @@ https://raw.githubusercontent.com/x22c/zd/master/output/user_result.txt
 https://raw.githubusercontent.com/zwc456baby/iptv_alive/master/live.txt
 https://gitee.com/hsh58/ds/raw/master/ds.txt
 https://gitee.com/mytv-android/iptv-api/raw/master/output/result.txt
+http://iptv.cqshushu.com/jiekou.php?jk=txt&token=9ab167e0a62c8c5630291569c5d09fab
+http://iptv.cqshushu.com/iptv807.php?jk=txt&&token=9ab167e0a62c8c5630291569c5d09fab
 https://raw.githubusercontent.com/zhzebe/iptv/main/ipv4.txt
 https://raw.githubusercontent.com/JinnLynn/iptv/dist/live-ipv4.txt
 https://raw.githubusercontent.com/JinnLynn/iptv/dist/live.txt
