@@ -32,6 +32,7 @@ http://iptv.cqshushu.com/jzb25.php?type=txt&token=33249303a220d927a217edb2a814ec
 http://iptv.cqshushu.com/iptv807.php?jk=txt&token=33249303a220d927a217edb2a814ec11
 http://iptv.cqshushu.com/jiekou.php?jk=txt&token=9ab167e0a62c8c5630291569c5d09fab
 http://iptv.cqshushu.com/iptv807.php?jk=txt&&token=9ab167e0a62c8c5630291569c5d09fab
+http://iptv.cqshushu.com/jiekou.php?jk=txt&token=b4129915a83898ad9bea08c81735988c
 https://raw.githubusercontent.com/kakaxi-1/IPTV/main/iptv.txt
 https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
 https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv6.m3u
