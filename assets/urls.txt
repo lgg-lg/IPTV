@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/lgg-lg/IPTV/refs/heads/main/assets/collection.txt
+https://raw.githubusercontent.com/lgg-lg/IPTV/refs/heads/main/assets/collection2.txt
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
