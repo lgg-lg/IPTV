@@ -36,6 +36,7 @@ https://raw.githubusercontent.com/cqshushu/tvjk/main/jd2.txt
 http://iptv.cqshushu.com/jiekou.php?jk=txt&token=5c6ecc700ca5fc679b6f7eb0e5445c36
 http://iptv.cqshushu.com/iptv807.php?jk=txt&token=5c6ecc700ca5fc679b6f7eb0e5445c36
 http://iptv.cqshushu.com/jzb25.php?type=txt&token=5c6ecc700ca5fc679b6f7eb0e5445c36
+https://2099.tv12.xyz/list.txt
 https://raw.githubusercontent.com/kakaxi-1/IPTV/main/iptv.txt
 https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv4.txt
 https://raw.githubusercontent.com/kakaxi-1/IPTV/main/ipv6.m3u
