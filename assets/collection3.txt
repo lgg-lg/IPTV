@@ -278,6 +278,7 @@ CCTV-2财经,http://8.138.7.223/tv/cctv.php?id=CCTV28bee868714f04ea2af79947bb9b4
 CCTV-5体育,http://8.138.7.223/tv/cctv.php?id=CCTV53bc308eb3d5646f49391875b23269073H
 CCTV-5+赛事,http://8.138.7.223/tv/cctv.php?id=CCTV54d61bd11c9a343b782b3381a3c3f6540H
 CCTV-14少儿,http://8.138.7.223/tv/cctv.php?id=CCTV14590796cc29774ad2a85b97206cc79fe8H
+#关联接口,http://8.138.7.223/tool/ua.php?ua=bei&url=
 湖南卫视,http://tongda.jiayinkeji.xin/migunew/bei2.php?id=hnwshd
 黑龙江卫视,http://tongda.jiayinkeji.xin/migunew/bei2.php?id=hljwshd
 浙江卫视,http://tongda.jiayinkeji.xin/migunew/bei2.php?id=zjwshd
