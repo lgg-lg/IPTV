@@ -130,6 +130,7 @@ https://raw.githubusercontent.com/jigedos/1024uz/main/ipv4.m3u
 https://raw.githubusercontent.com/jigedos/1024uz/main/ipv6.m3u
 https://raw.githubusercontent.com/tushen6/Tomorrow/master/TV/0708.txt
 https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://raw.githubusercontent.com/aiyakuaile/easy_tv_live/main/temp
 https://raw.githubusercontent.com/leiyou-li/moyuntv3/main/live.txt
@@ -191,6 +192,7 @@ http://tot.totalh.net/tttt.txt
 https://live.hacks.tools/iptv/index.m3u
 https://tv6.tv1288.xyz
 http://kkk.jjjj.jiduo.me/user/tttt/api.txt
+https://jihulab.com/-/snippets/5265/raw/main/.txt
 # http://我不是.摸鱼儿.com/live.php
 https://gitea.moe/xiangjiao-ge/yifa169/raw/branch/main/yiyifafa.txt
 https://gitee.com/jin-xueling/lingl/raw/master/hu.txt
