@@ -1,5 +1,6 @@
 # 每30天修复一次IP授权tv.php
 # http://8.138.7.223/tv.php
+https://raw.githubusercontent.com/lgg-lg/iptv-api/raw/master/config/local.txt
 https://raw.githubusercontent.com/lgg-lg/IPTV/refs/heads/main/assets/collection.txt
 https://raw.githubusercontent.com/lgg-lg/IPTV/refs/heads/main/assets/collection2.txt
 https://raw.githubusercontent.com/lgg-lg/IPTV/refs/heads/main/assets/collection3.txt
