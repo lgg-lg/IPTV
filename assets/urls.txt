@@ -23,14 +23,14 @@ https://raw.githubusercontent.com/lgg-lg/TvSourceFilter/main/collections/collect
 https://raw.githubusercontent.com/lgg-lg/TvSourceFilter/main/collections/collection3.txt
 https://raw.githubusercontent.com/lgg-lg/TvSourceFilter/main/collections/collection4.txt
 https://raw.githubusercontent.com/lgg-lg/TvSourceFilter/main/collections/phpcollection1.txt
+https://raw.githubusercontent.com/lgg-lg/iptv-api/master/output/user_result.txt
+https://raw.githubusercontent.com/lgg-lg/TvSourceFilter/main/output/new_result.txt
+# https://raw.githubusercontent.com/lgg-lg/TvSourceFilter/main/output/allsourcecleaned.txt
 # 其他
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
 https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
-https://raw.githubusercontent.com/lgg-lg/iptv-api/master/output/user_result.txt
-https://raw.githubusercontent.com/lgg-lg/TvSourceFilter/main/output/new_result.txt
-https://raw.githubusercontent.com/lgg-lg/TvSourceFilter/main/output/allsourcecleaned.txt
 https://live.zbds.org/tv/iptv4.txt
 https://live.zbds.org/tv/iptv6.txt
 https://live.hacks.tools/tv/iptv6.txt
