@@ -194,7 +194,6 @@ https://m3u.ibert.me/txt/ycl_iptv.txt
 https://m3u.ibert.me/txt/y_g.txt
 https://gitee.com/tushaoyong/live/raw/master/%E6%8E%A5%E5%8F%A3/IPV6.txt
 http://tot.totalh.net/tttt.txt
-https://live.hacks.tools/iptv/index.m3u
 https://tv6.tv1288.xyz
 http://kkk.jjjj.jiduo.me/user/tttt/api.txt
 https://jihulab.com/-/snippets/5265/raw/main/.txt
@@ -262,6 +261,7 @@ https://m3u.ibert.me/txt/cymz6_lives.txt
 # 似乎关闭
 # https://live.kilvn.com/iptv.m3u
 # https://m3u.ibert.me/txt/j_iptv.txt
+# https://live.hacks.tools/iptv/index.m3u
 # https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/itvlist.txt
 # https://iptv.b2og.com/txt/fmml_ipv6.txt
 # http://zhibo.feylen.top/fltv/js/ku9live.php?tpye=fl.txt
